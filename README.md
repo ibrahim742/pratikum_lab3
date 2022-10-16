@@ -4,7 +4,7 @@
 
 menambahakan `Gambar 1`
 # Gambar 1
-![Gambar 1](gambar1.png)
+![Gambar 1](pratikum_lab3/gambar1.png)
 
 
 menambahkan `Gambar 2`
