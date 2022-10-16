@@ -4,7 +4,7 @@
 
 menambahakan `Gambar 1`
 # Gambar 1
-![alt text](screnshot/gambar1.png)
+![alt text](screnshot/gambar1.PNG)
 
 
 menambahkan `Gambar 2`
