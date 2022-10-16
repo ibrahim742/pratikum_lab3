@@ -2,7 +2,7 @@
 
 ## Menambahkan Image dari hasil codingan
 
-menambahakan `Gambar 1`
+menambahakan Gambar 1
 # Gambar 1
 ![alt text](gambar1.png)
 
