@@ -4,29 +4,29 @@
 
 menambahakan Gambar 1
 # Gambar 1
-![alt text](gambar1.png)
+![Gambar 1](screenshot/gambar1.png)
 
 
 menambahkan `Gambar 2`
 # Gambar 2
-![alt text](gambar2.png)
+![Gambar 2](screenshot/gambar2.png)
 
 
 menambahakan `Gambar 3`
 # Gambar 3
-![alt text](gambar3.png)
+![Gambar 3](screenshot/gambar3.png)
 
 
 menambahkan `Gambar 4`
 # Gambar 4
-![alt text](gambar4.png)
+![Gambar 4](screenshot/gambar4.png)
 
 
 menambahkan `Gambar 5`
 # Gambar 5
-![alt text](gambar5.png)
+![Gambar 5](screenshot/gambar5.png)
 
 
 menambahkan `Gambar 6`
 # Gambar 6
-![alt text](Full_hasil_tugas.png)
+![Gambar 6](screenshot/Full_hasil_tugas.png)
